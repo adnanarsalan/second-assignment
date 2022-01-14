@@ -12,7 +12,7 @@ margin:0 auto;
 
 }
 header {background-color: silver;
-height:100px;; }
+height:100px; }
 .happy {text-shadow:  2px 2px white; 
 font-weight: bolder;position:absolute;
 margin-left: 170px;
@@ -52,4 +52,16 @@ border-width: 7px 80px;  }
                               
                }
                .star{color:yellow;background-color: tomato;}
- 
+ footer{background-color: black;
+               height:150px;}
+               footer h3{color:burlywood;
+                 margin:50px 550px;position:absolute;}
+footer p{color:burlywood;
+               margin:70px 550px;position:absolute;}
+
+
+               footer img{height:20px;
+               weight:20px; margin:100px 550px;position:absolute;border:2px solid plum; border-radius: 2px;background-color: plum;
+}
+.youtube{margin:100px 600px;height:20px;weight:20px}
+.twitter{margin:100px 660px;height:20px;weight:20px}
