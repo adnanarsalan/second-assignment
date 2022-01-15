@@ -201,7 +201,7 @@ grid-template-rows:repeat(1,1fr);border:1px solid pink}
   width:90px;
   height:90px;
 }
-footer{width:240%;
+footer{width:800px;
 display:grid}
 .bonus-part{background-image:unset}
 .netflex{margin-left:730px;margin-top:100px;
@@ -212,6 +212,7 @@ border:1px solid white;;}
 .twitter{margin-left:410px}
 .last-part{width:745px}
 header{width: 745px;}
+.container{width:550px}
 }
     
 
